@@ -7,7 +7,7 @@
 
 <img width="1867" height="772" alt="image" src="https://github.com/user-attachments/assets/7ed08a78-ece3-4f7a-bac5-a7994f7d4a7b" />
 
-#Grafana Monitoring Panels
+# Grafana Monitoring Panels
 
 <img width="1268" height="730" alt="Screenshot 2026-03-01 221217" src="https://github.com/user-attachments/assets/023939e4-a127-4b04-97c0-79aa254b87f4" />
 
